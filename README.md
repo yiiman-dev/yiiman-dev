@@ -20,9 +20,10 @@
 </td></tr></table>
 
 <p align="center">
-<a href="https://github.com/yiiman-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiiman-dev&hide=css,html&langs_count=3" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiiman-dev&hide=css,html&langs_count=5" />  
+</p>
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=yiiman-dev&show_icons=true&locale=en" alt="YiiMan" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yiiman-dev&" alt="YiiMan" />
 
