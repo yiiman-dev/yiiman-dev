@@ -28,3 +28,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yiiman-dev&" alt="YiiMan" />
 
 </p>
+<h2>My favorites (DEV/OPS)</h2>
+<ul>
+  <li>CapRover</li>
+  <li>Docker compose</li>
+  <li>K8s</li>
+  <li>Gitlab|Github|Godady CICD</li>
+  <li>Heartsbeat</li>
+  <li>Portainer</li>
+  <li>Poste.io</li>
+  <li>SonarQube</li>
+  <li>Comby</li>
+</ul>
