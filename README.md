@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm YiiMan (Gholamreza beheshtian) </h1>
-<h2 align="center">سلام👋 من غلامرضا بهشتیان هستم</h2>
+<h1 align="center">Hi 👋, I'm YiiMan (Saman beheshtian) </h1>
+<h2 align="center">سلام👋 من سامان بهشتیان هستم</h2>
 <h3 align="center">A passionate open source contributor from Iran</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yiiman-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Yii developer" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yiiman-dev" alt="yiiman amintado yii2 developer" /></a> </p>
