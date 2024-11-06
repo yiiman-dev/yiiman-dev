@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yiiman-dev" alt="yiiman amintado yii2 developer" /></a> </p>
 <table align="center"><tr><td>
 
-- 🔭 I’m currently working on [USCF](https://uscf.ir) Company as CTO
+- 🔭 I’m currently working on [UTETA](https://uteta.ir) Company as CTO
 
 - 👨‍💻 All of my projects are available at [https://yiiman.ir](https://yiiman.ir)
 
