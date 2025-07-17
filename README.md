@@ -30,6 +30,7 @@
 <h2>Contributions</h2>
 <ul>
   <li><a href="https://github.com/Fechin/reference">Reference</a></li>
+  <li><a href="https://github.com/nodilabs/nodishell">Nodishell</li>
 </ul>
 
 <h2>My favorites (DEV/OPS)</h2>
