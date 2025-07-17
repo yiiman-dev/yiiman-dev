@@ -31,6 +31,7 @@
 <ul>
   <li><a href="https://github.com/Fechin/reference">Reference</a></li>
   <li><a href="https://github.com/nodilabs/nodishell">Nodishell</li>
+  <li><a href="https://github.com/filamentphp/filament">Laravel Filament</li>
 </ul>
 
 <h2>My favorites (DEV/OPS)</h2>
