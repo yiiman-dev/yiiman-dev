@@ -68,3 +68,13 @@
   <li>Loki</li>
   <li>FluentD</li>
 </ul>
+<h2>Project management</h2>
+<ul>
+  <li>Jira</li>
+  <li>Trello</li>
+  <li>Taskulu</li>
+  <li>clickup</li>
+  <li>Zentao (OpenSource)</li>
+  <li>Plane (OpenSource)</li>
+  <li>huly (OpenSource)</li>
+</ul>
