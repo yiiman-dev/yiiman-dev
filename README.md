@@ -50,6 +50,7 @@
   <li>Kopia</li>
   <li>Safeline</li>
   <li>TEngine</li>
+  <li>HA Proxy</li>
   <li>NginxUI</li>
   <li>Teraefik</li>
   <li>Hashicorp packer</li>
