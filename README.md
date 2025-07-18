@@ -67,6 +67,8 @@
   <li>ELK</li>
   <li>Loki</li>
   <li>FluentD</li>
+  <li>Termius</li>
+  <li>WarpGate</li>
 </ul>
 <h2>Project management</h2>
 <ul>
