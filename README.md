@@ -81,3 +81,18 @@
   <li>Plane (OpenSource)</li>
   <li>huly (OpenSource)</li>
 </ul>
+<h2>I can do JavaScript development with these Stacks</h2>
+<ul>
+  <li>Vite - WebPack - NPM - PNPM - Npx - Bower - poetry - Yarn</li>
+  <li>Jquery - Axios - Nextjs - NuxtJS  - ReactNative</li>
+  <li>Bootstrap  -  TailwindCss - AntDesign</li>
+  <li>GlueStack - Refine - HeroUI - TamagUI</li>
+  <li>commander - NestJS - Strapi - AppWire - ExpressJs</li>
+  <li>Novu notificatio manager</li>
+</ul>
+<h2>I can do PHP development with these Stacks</h2>
+<ul>
+    <li>Laravel - Inertia - Livewire - Filament - Swool - RoadRunner</li>
+    <li>Yii1/Yii2 - Spiral - CodeIgniter - Symfony - Slim</li>
+    <li>Joomla - Wordpress</li>
+</ul>
