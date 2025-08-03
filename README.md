@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yiiman.ir](https://yiiman.ir)
 
-- 💬 Ask me about **anything on web app development**
+- 💬 I would be delighted to be contacted about your project, as **I am highly eager to share my expertise**.
 
 - 📫 How to reach me: **https://t.me/yiiman**
 
