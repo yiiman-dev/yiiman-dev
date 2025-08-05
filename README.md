@@ -34,7 +34,8 @@
   <li><a href="https://github.com/filamentphp/filament">Laravel Filament</li>
   <li><a href="https://github.com/bezhanSalleh/filament-shield">Filament Shield</a></li>
   <li><a href="https://github.com/novuhq/novu">Novu</a></li>
-  <li><a href="https://github.com/Fechin/reference">Reference</a></li>
+  <li><a href="https://github.com/Fechin/reference">Yii2</a></li>
+  <li><a href="https://github.com/laravel/laravel">Laravel</a></li>
   <li><a href="https://github.com/strapi/strapi">Strapi</a></li>
   <li><a href="https://github.com/makeplane/plane">Plane</a></li>
   
