@@ -32,6 +32,12 @@
   <li><a href="https://github.com/Fechin/reference">Reference</a></li>
   <li><a href="https://github.com/nodilabs/nodishell">Nodishell</li>
   <li><a href="https://github.com/filamentphp/filament">Laravel Filament</li>
+  <li><a href="https://github.com/bezhanSalleh/filament-shield">Filament Shield</a></li>
+  <li><a href="https://github.com/novuhq/novu">Novu</a></li>
+  <li><a href="https://github.com/Fechin/reference">Reference</a></li>
+  <li><a href="https://github.com/strapi/strapi">Strapi</a></li>
+  <li><a href="https://github.com/makeplane/plane">Plane</a></li>
+  
 </ul>
 
 <h2>My favorites (DEV/OPS)</h2>
