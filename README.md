@@ -78,6 +78,7 @@
   <li>Termius</li>
   <li>WarpGate</li>
   <li>OneDev</li>
+  <li>Watchtower</li>
 </ul>
 <h2>Project management</h2>
 <ul>
